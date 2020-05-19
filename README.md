@@ -5,4 +5,4 @@
 * git clone https://github.com/Ville-VeikkoN/yle-api-node.git
 * go to directory and run:
   ``` npm install ```
-  ``` npm start ```
+  ``` node index.js ```
